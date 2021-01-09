@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28882" started-at="2021-01-06T09:23:57Z" finished-at="2021-01-06T09:24:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28882" started-at="2021-01-06T09:23:57Z" finished-at="2021-01-06T09:24:25Z">
+      <class name="com.qa.Bookings.Testcases.OverviewpageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.Bookings.Testcases.OverviewpageTest@3ee3a2]" name="setup" is-config="true" duration-ms="9420" started-at="2021-01-06T09:23:57Z" finished-at="2021-01-06T09:24:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyOverviewpage()[pri:0, instance:com.qa.Bookings.Testcases.OverviewpageTest@3ee3a2]" name="VerifyOverviewpage" duration-ms="19405" started-at="2021-01-06T09:24:06Z" finished-at="2021-01-06T09:24:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyOverviewpage -->
+      </class> <!-- com.qa.Bookings.Testcases.OverviewpageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
